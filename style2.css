@@ -1,0 +1,201 @@
+.h1{
+    display: inline-block;
+    color: palevioletred;
+    font-size: xx-large;
+    font-weight: 900;
+    margin-right: 801px;
+    text-transform: lowercase;
+}
+.b{
+    display: inline-block;
+    padding: 5px 25px;
+    color: white;
+    font-weight: bold;
+    font-size: 26px;
+    color: rgb(255, 255, 255);
+    background-color: palevioletred;
+    border-radius: 10px;
+    
+}
+.btn2{
+    display: inline-block;
+    padding: 5px 25px;
+    color: rgb(204, 133, 133);
+    font-weight: bold;
+    font-size: 26px;
+    border-color: palevioletred;
+    border-radius: 10px;
+    cursor: pointer;
+}
+nav{
+    display: inline-block;
+    padding: 5px 25px;
+    color: white;
+    font-weight: bold;
+    font-size: 26px;
+    border: 4px solid gray;
+    width: 96%;
+    position: fixed;
+    top: 1px;
+    background-color: white;
+    z-index: 10;
+}
+.img img{
+    height:  500px;
+    width: 600px;
+   margin-top: 80px;
+   margin-left: 799px;
+   float: right;
+}
+.img h1{
+    position: absolute;
+    top: 34%;
+    color: black;
+margin-left: 20px;
+}
+.sh1 h1 {
+
+    margin-top: 10px;
+    color: black;
+    font-weight: 500px;
+    font-size: x-large;
+    margin-left: 10px;
+}
+.shef{
+    width: 100%;
+    float: right;
+}
+.main{
+    border: 3px solid white;
+    width: 500px;
+    position: absolute;
+    top: 193%;
+    margin-left: 100px;
+    background-color: white;
+    border-radius: 20px;
+    width: 700px;
+    height: 40%;
+    justify-content: center;
+    box-shadow: darkgrey;
+}
+.main button{
+height: 36px;
+margin-left: 10px;
+background-color: palevioletred;
+color: white;
+border-color: palevioletred;
+border-radius: 10px;
+}
+.cityheading  img{
+    height: 300px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 100px;
+}
+.cityheading .h1{
+    color: black;
+    font-size: larger;
+    margin-top: 3%;
+    font-weight: bolder;
+    margin-top: 100px;
+}
+.bt{
+    position: relative;
+    top: -70px;
+    cursor: pointer;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 30px;
+    background-color: blue;
+    color: white;
+    margin-right: 150px;
+}
+.bt:hover{
+    background-color: black;
+    color: white;
+}
+.bt2{
+    cursor: pointer;
+    height: 30px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    margin-right: 300%;
+}
+.h1 img{
+    margin-right: 100px;
+}
+.img3{
+  height: 100%;
+  width: 100%;
+ position: relative;
+ bottom:right ;
+}
+.main2{
+    border: 0.1px solid rgb(95, 85, 85);
+    width: 500px;
+    position: absolute;
+    top: 400%;
+    margin-left: 100px;
+    background-color: white;
+    border-radius: 20px;
+    width: 700px;
+    height: 30%;
+    justify-content: center;
+    box-shadow: 10px solid darkgrey;
+    z-index: 3;
+}
+.main2 button{
+    height: 36px;
+margin-left: 10px;
+background-color: palevioletred;
+color: white;
+border-color: palevioletred;
+border-radius: 10px;
+}
+.para{
+    margin-top: 100px;
+}
+ul {
+    display: inline-block;
+}
+li{
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+   text-decoration: underline;
+   font-weight: bolder;
+   cursor: pointer;
+}
+li:hover{
+    color: white;
+    background-color: black;
+}
+.li{
+    display: block;
+}
+.img4 img{
+    border-radius: 100px;
+    height: 100px;
+}
+.img4 a img{
+  margin-left: 80%;
+  border-radius: 20px;
+  display: inline-block;
+  margin-top: -200px;
+  border-radius: 20px;
+  justify-content: center;
+
+}
+.cityheading .img7{
+    float: right;
+    margin-top: 10px;
+    position: relative;
+    right: 70px;
+    top: 130px
+}
+body{
+    background-color: antiquewhite;
+}
